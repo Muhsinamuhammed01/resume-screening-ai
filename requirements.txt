@@ -1,0 +1,7 @@
+Flask
+python-docx
+PyMuPDF
+openai
+python-dotenv
+requests
+groq

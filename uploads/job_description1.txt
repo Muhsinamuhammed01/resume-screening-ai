@@ -1,0 +1,74 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Filter /FlateDecode /Length 513>>
+stream
+xœm“Os›0Åïù{k2Uþlrk»Ó´ '0ÓK.k±ØŠ…D%aêoHf:øÀ…Ñû=í{«ž®–, »º/àÛ:„0bA E«âü+Y˜Á"]°yE	×Oz
+…p’î ×•ëÐ¬ÔN("sÅÛÿº0`‹¸×½m´²b+¤p‚ìÝäpºŒX¼ìÏà‘¬Ø©[(éHR7·€ª„…rþËQâVt´l)8:áñlJMæ,ˆGêƒ–^§
+:/nÜhkgU«øYŽamÁio\ù™z[Q7’jRuPºÖÐ%«(ai6Zý1Â›pIè§ ª\xÂ0GGRÎJÍÛ3”Jàº¤).I³¾Š>¼¿­0þd~R^È.™ ,MFëÑ£ø¬6'·×ª÷}Â#æÜˆÆ]póÅÇÁHXýkÈx cZK´ ÐßPíôT=_Æ,KGõk_2ú Nƒüe•U+áûæ§í/R¢Ã-Z² Å`£­ÛÊŸ_ '>Ôp$ÿRº“TîtG2Ö—æÓSÎh	ödùò^¯÷z3EÅÙ’eÃ?·(Eõ±5Ó<ãEÿ*×{ä{¿„æ‹õ[áïIçXtÝ´Žä|Ê§cHâ¹ÏJ,/øÏ#E#4ú
+'BcÏ“4¾0²vØ@ûñªÆÕï>
+ùÄ¾a³
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+6 0 obj
+<<
+/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)
+/CreationDate (D:20250729154651)
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000670 00000 n 
+0000000853 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000000757 00000 n 
+0000000957 00000 n 
+0000001066 00000 n 
+trailer
+<<
+/Size 8
+/Root 7 0 R
+/Info 6 0 R
+>>
+startxref
+1169
+%%EOF
